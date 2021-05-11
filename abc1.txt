@@ -1,0 +1,3 @@
+Hi Git,
+
+This my first demo project to learn Git
